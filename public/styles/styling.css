@@ -1,3 +1,24 @@
 .p1 {
     text-align: center;
 }
+
+
+
+
+
+img {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.centrar{
+    text-align: center;
+    font-weight: bold;
+}
+
+.fotocentrada{
+    text-align: center;
+}
