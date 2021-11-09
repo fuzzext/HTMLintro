@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(253, 77, 77);
+}
+
+.nav{
+    position: absolute;
+    background-color: black;
+    height: 100px;
+    top:0px;
+    left:0px;
+    right: 0px;
+}
+
+
+.brand{
+    font-family: 'Courier New', 'monospace', 'URW Gothic L', 'sans-serif';
+    color: white;
+    font-size:  80px;
+    padding-top: 50px;
+    font-weight: bold;
+    padding-left: 10px;
+    position: relative;
+    top:50%;
+    margin:0%;
+    transform: translateY(-50%);
+    float: left;
+}
+
+.ft{
+    position: relation;
+    margin-top: 500px;
+    width: 10%;
+}
+
+.menu:hover {
+    color:black;
+    background-color: white;
+    font-size: 60px;
+
+}
+
+.menu{
+    color: white;
+    font-family: 'Avantgarde', 'TeX Gyre Adventor', 'URW Gothic L', 'sans-serif';
+    color: white;
+    font-size:  30px;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-right: 50px;
+    position: relative;
+    margin:0;
+    top:50%;
+    transform: translateY(-50%);
+    float: right;
+}
